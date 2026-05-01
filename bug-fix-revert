@@ -1,0 +1,14 @@
+{
+  "html_url": "https://github.com/BCleosa/LogisticsShippingRates/pull/1",
+  "state": "open",
+  "user": {
+    "login": "BCleosa"
+  },
+  "head": {
+    "label": "BCleosa:bug-fix-typo",
+    "repo": {
+      "full_name": "BCleosa/LogisticsShippingRates",
+      "fork": true
+    }
+  }
+}
