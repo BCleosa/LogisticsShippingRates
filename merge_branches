@@ -1,0 +1,7 @@
+user@terminal:~/LogisticsShippingRates$ git checkout main
+Switched to branch 'main'
+user@terminal:~/LogisticsShippingRates$ git merge bug-fix-typo
+Updating 7e2f3a1..b4c5d6e
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
