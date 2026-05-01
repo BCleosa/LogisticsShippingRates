@@ -1,18 +1,27 @@
-# Simple Interest Calculator
+# simple-interest-calculator
 
-A shell script to calculate simple interest given principal, annual rate of interest and time period in years.
+# Kalkulator Bunga Sederhana
 
-## Description:
-This project is part of the IBM Git and GitHub final project. It contains a simple Bash script that computes interest based on user inputs.
+Repositori ini berisi skrip untuk menghitung bunga sederhana (Simple Interest). 
 
-## Input:
-* p, principal amount
-* t, time period in years
-* r, annual rate of interest
+## Deskripsi
+Bunga sederhana dihitung dengan mengalikan pinjaman pokok dengan suku bunga dan jangka waktu pinjaman. Program atau skrip dalam proyek ini akan menerima input dari pengguna dan mengembalikan nilai bunga yang dihasilkan.
 
-## Output:
-* simple interest = p * t * r
+## Rumus
+Rumus untuk menghitung bunga sederhana adalah:
+I = P x R x T
 
-## Project Details:
-* Repository Name: github-final-project
-* Author: BCleosa
+Di mana:
+* **I** = Bunga Sederhana (Simple Interest)
+* **P** = Jumlah Pokok (Principal amount)
+* **R** = Suku Bunga Tahunan (Annual interest rate dalam bentuk desimal)
+* **T** = Waktu/Jangka Waktu (Time dalam tahun)
+
+## Cara Menggunakan
+1. Masukkan jumlah pokok pinjaman (P).
+2. Masukkan suku bunga tahunan (R).
+3. Masukkan periode waktu dalam satuan tahun (T).
+4. Hasil perhitungan akan menampilkan total bunga yang harus dibayarkan.
+
+## Kontributor
+* [Nama Anda / Username GitHub Anda]
